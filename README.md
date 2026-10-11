@@ -1,18 +1,18 @@
-# <div align='center'>PouCode</div>
+# <div align='center'>Cicifalaen</div>
 
 <p align="center">
 
-  <img src="https://files.catbox.moe/i497x5.jpg" width="180" alt="Pou"/>
+  <img src="https://files.catbox.moe/i497x5.jpg" width="180" alt="Cici"/>
 
 </p>
 
 <div align='center'>
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![GitHub](https://img.shields.io/badge/source-GitHub-black.svg)](https://github.com/pou-code/Baileys)
+[![GitHub](https://img.shields.io/badge/source-GitHub-black.svg)](https://github.com/cicifalaen-coe/Baileys)
 [![Node](https://img.shields.io/badge/node-%3E%3D20-brightgreen.svg)](package.json)
 
-A WebSockets library for interacting with WhatsApp Web, maintained under the **PouCode** brand.
+A WebSockets library for interacting with WhatsApp Web, maintained under the **Cicifalaen** brand.
 This project is a fork built on top of [Baileys](https://github.com/WhiskeySockets/Baileys) by WhiskeySockets.
 
 </div>
